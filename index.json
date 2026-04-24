@@ -19,10 +19,10 @@
   {
     "name": "开心看漫画",
     "pkg": "eu.kanade.tachiyomi.extension.zh.kxmanhua",
-    "apk": "tachiyomi-zh.kxmanhua-v1.4.8-release.apk",
+    "apk": "tachiyomi-zh.kxmanhua-v1.4.9-release.apk",
     "lang": "zh",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "sources": [
       {
