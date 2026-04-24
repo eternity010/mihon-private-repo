@@ -5,7 +5,7 @@
 - `repo.json`
 - `index.json`
 - `index.min.json`
-- `apk/*.apk`
+- `tachiyomi-*.apk`（放在仓库根目录）
 
 ## 1) 首次配置
 编辑 `repo_config.json`：
@@ -22,15 +22,15 @@
 python .\tools\build_mihon_repo.py
 ```
 
-生成后会更新本目录下的索引和 `apks` 文件。
+生成后会更新本目录下的索引和 APK 文件。
 
 ## 3) 发布到公网
 把本目录内容发布到静态托管（推荐 GitHub Pages）。
 
-发布后，Mihon 添加仓库 URL：
+发布后，Mihon 建议添加仓库 URL：
 
 ```text
-https://<your-user>.github.io/<repo>/index.min.json
+https://<your-user>.github.io/<repo>/repo.json
 ```
 
 ## 4) 每次更新插件

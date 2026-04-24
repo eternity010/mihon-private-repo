@@ -1,5 +1,7 @@
 {
-  "name": "BKcomic Private Extensions",
-  "website": "https://eternity010.github.io/mihon-private-repo",
-  "signingKeyFingerprint": "AC:88:EB:35:52:6D:75:58:F3:E6:B3:CE:F5:5A:E0:9F:EE:AA:10:D6:60:A7:56:B9:1F:2D:86:82:B5:C6:61:DF"
+  "meta": {
+    "name": "BKcomic Private Extensions",
+    "website": "https://eternity010.github.io/mihon-private-repo",
+    "signingKeyFingerprint": "ac88eb35526d7558f3e6b3cef55ae09feeaa10d660a756b91f2d8682b5c661df"
+  }
 }
