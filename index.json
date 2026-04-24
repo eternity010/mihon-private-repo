@@ -4,7 +4,7 @@
     "pkg": "eu.kanade.tachiyomi.extension.zh.bakamhpersonal",
     "apk": "tachiyomi-zh.bakamhpersonal-v1.4.53-release.apk",
     "lang": "zh",
-    "code": 53,
+    "code": 7,
     "version": "1.4.53",
     "nsfw": 1,
     "sources": [
@@ -53,10 +53,10 @@
   {
     "name": "肉漫屋 (个人版)",
     "pkg": "eu.kanade.tachiyomi.extension.zh.roumanwupersonal",
-    "apk": "tachiyomi-zh.roumanwupersonal-v1.4.1-release.apk",
+    "apk": "tachiyomi-zh.roumanwupersonal-v1.4.0-release.apk",
     "lang": "zh",
     "code": 1,
-    "version": "1.4.1",
+    "version": "1.4.0",
     "nsfw": 1,
     "sources": [
       {
