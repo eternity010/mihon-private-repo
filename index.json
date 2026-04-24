@@ -49,5 +49,22 @@
         "baseUrl": "https://www.jjmhw5.top"
       }
     ]
+  },
+  {
+    "name": "肉漫屋 (个人版)",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.roumanwupersonal",
+    "apk": "tachiyomi-zh.roumanwupersonal-v1.4.1-release.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "肉漫屋 (个人版)",
+        "lang": "zh",
+        "id": 7543172489869724835,
+        "baseUrl": ""
+      }
+    ]
   }
 ]
