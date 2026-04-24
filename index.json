@@ -53,10 +53,10 @@
   {
     "name": "肉漫屋 (个人版)",
     "pkg": "eu.kanade.tachiyomi.extension.zh.roumanwupersonal",
-    "apk": "tachiyomi-zh.roumanwupersonal-v1.4.0-release.apk",
+    "apk": "tachiyomi-zh.roumanwupersonal-v1.4.2-release.apk",
     "lang": "zh",
-    "code": 1,
-    "version": "1.4.0",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
