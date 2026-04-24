@@ -5,7 +5,7 @@
 - `repo.json`
 - `index.json`
 - `index.min.json`
-- `apks/*.apk`
+- `apk/*.apk`
 
 ## 1) 首次配置
 编辑 `repo_config.json`：
@@ -38,3 +38,15 @@ https://<your-user>.github.io/<repo>/index.min.json
 2. 执行 `python .\tools\build_mihon_repo.py` 重新生成索引。
 3. 提交并发布 `mihon-private-repo` 目录。
 
+## 5) 一键更新脚本
+在 `D:\vue_project\BKcomic` 执行：
+
+```powershell
+.\update_repo.ps1
+```
+
+只重建并提交、不推送：
+
+```powershell
+.\update_repo.ps1 -NoPush
+```
