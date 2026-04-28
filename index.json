@@ -2,7 +2,7 @@
   {
     "name": "Baka Manhua Personal",
     "pkg": "eu.kanade.tachiyomi.extension.zh.bakamhpersonal",
-    "apk": "apk/tachiyomi-zh.bakamhpersonal-v1.4.53-release.apk",
+    "apk": "tachiyomi-zh.bakamhpersonal-v1.4.53-release.apk",
     "lang": "zh",
     "code": 53,
     "version": "1.4.53",
@@ -19,7 +19,7 @@
   {
     "name": "开心看漫画",
     "pkg": "eu.kanade.tachiyomi.extension.zh.kxmanhua",
-    "apk": "apk/tachiyomi-zh.kxmanhua-v1.4.9-release.apk",
+    "apk": "tachiyomi-zh.kxmanhua-v1.4.9-release.apk",
     "lang": "zh",
     "code": 9,
     "version": "1.4.9",
@@ -36,7 +36,7 @@
   {
     "name": "漫小肆韩漫",
     "pkg": "eu.kanade.tachiyomi.extension.zh.manxiaosi",
-    "apk": "apk/tachiyomi-zh.manxiaosi-v1.4.14-release.apk",
+    "apk": "tachiyomi-zh.manxiaosi-v1.4.14-release.apk",
     "lang": "zh",
     "code": 14,
     "version": "1.4.14",
@@ -53,7 +53,7 @@
   {
     "name": "肉漫屋 (个人版)",
     "pkg": "eu.kanade.tachiyomi.extension.zh.roumanwupersonal",
-    "apk": "apk/tachiyomi-zh.roumanwupersonal-v1.4.2-release.apk",
+    "apk": "tachiyomi-zh.roumanwupersonal-v1.4.2-release.apk",
     "lang": "zh",
     "code": 2,
     "version": "1.4.2",
