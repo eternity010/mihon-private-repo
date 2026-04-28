@@ -5,7 +5,25 @@
 - `repo.json`
 - `index.json`
 - `index.min.json`
-- `tachiyomi-*.apk`（放在仓库根目录）
+- `apk/tachiyomi-*.apk`（放在 `apk` 子目录）
+
+## 0) 关键字段规范（必须遵守）
+
+`index.json` / `index.min.json` 的 `apk` 字段只能写文件名，不要带 `apk/` 前缀。
+
+正确示例：
+
+```json
+{ "apk": "tachiyomi-zh.manxiaosi-v1.4.15-release.apk" }
+```
+
+错误示例：
+
+```json
+{ "apk": "apk/tachiyomi-zh.manxiaosi-v1.4.15-release.apk" }
+```
+
+原因：Mihon 会按 `{repoUrl}/apk/{apk}` 自动拼接下载地址。
 
 ## 1) 首次配置
 编辑 `repo_config.json`：
@@ -24,6 +42,13 @@ python .\tools\build_mihon_repo.py
 
 生成后会更新本目录下的索引和 APK 文件。
 
+建议在发布前做一次快速检查：
+
+```powershell
+python -m json.tool .\mihon-private-repo\index.json > $null
+python -m json.tool .\mihon-private-repo\index.min.json > $null
+```
+
 ## 3) 发布到公网
 把本目录内容发布到静态托管（推荐 GitHub Pages）。
 
@@ -37,6 +62,13 @@ https://<your-user>.github.io/<repo>/repo.json
 1. 先在 `extensions-source` 构建新版 APK。
 2. 执行 `python .\tools\build_mihon_repo.py` 重新生成索引。
 3. 提交并发布 `mihon-private-repo` 目录。
+
+发布后建议验证：
+
+```powershell
+curl -I "https://<your-user>.github.io/<repo>/index.min.json"
+curl -I "https://<your-user>.github.io/<repo>/apk/<apk-file-name>"
+```
 
 ## 5) 一键更新脚本
 在 `D:\vue_project\BKcomic` 执行：
