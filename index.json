@@ -36,10 +36,10 @@
   {
     "name": "漫小肆韩漫",
     "pkg": "eu.kanade.tachiyomi.extension.zh.manxiaosi",
-    "apk": "tachiyomi-zh.manxiaosi-v1.4.14-release.apk",
+    "apk": "tachiyomi-zh.manxiaosi-v1.4.15-release.apk",
     "lang": "zh",
-    "code": 14,
-    "version": "1.4.14",
+    "code": 15,
+    "version": "1.4.15",
     "nsfw": 1,
     "sources": [
       {
