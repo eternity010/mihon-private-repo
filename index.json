@@ -53,10 +53,10 @@
   {
     "name": "MMero",
     "pkg": "eu.kanade.tachiyomi.extension.zh.mmero",
-    "apk": "tachiyomi-zh.mmero-v1.4.2-release.apk",
+    "apk": "tachiyomi-zh.mmero-v1.4.3-release.apk",
     "lang": "zh",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "sources": [
       {
