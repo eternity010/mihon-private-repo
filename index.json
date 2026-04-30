@@ -17,6 +17,23 @@
     ]
   },
   {
+    "name": "ETcopy",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.etcopy",
+    "apk": "tachiyomi-zh.etcopy-v1.4.4-release.apk",
+    "lang": "zh",
+    "code": 4,
+    "version": "1.4.4",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "ETcopy",
+        "lang": "zh",
+        "id": -194487382882892851,
+        "baseUrl": ""
+      }
+    ]
+  },
+  {
     "name": "ETmanxiaosi",
     "pkg": "eu.kanade.tachiyomi.extension.zh.manxiaosi",
     "apk": "tachiyomi-zh.manxiaosi-v1.4.15-release.apk",
