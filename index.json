@@ -19,10 +19,10 @@
   {
     "name": "ETcopy",
     "pkg": "eu.kanade.tachiyomi.extension.zh.etcopy",
-    "apk": "tachiyomi-zh.etcopy-v1.4.4-release.apk",
+    "apk": "tachiyomi-zh.etcopy-v1.4.5-release.apk",
     "lang": "zh",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "sources": [
       {
