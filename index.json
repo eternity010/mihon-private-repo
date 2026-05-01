@@ -51,23 +51,6 @@
     ]
   },
   {
-    "name": "MMero",
-    "pkg": "eu.kanade.tachiyomi.extension.zh.mmero",
-    "apk": "tachiyomi-zh.mmero-v1.4.3-release.apk",
-    "lang": "zh",
-    "code": 3,
-    "version": "1.4.3",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "MMero",
-        "lang": "zh",
-        "id": -6016185348180791415,
-        "baseUrl": "https://eaqrfn.xyz"
-      }
-    ]
-  },
-  {
     "name": "开心看漫画",
     "pkg": "eu.kanade.tachiyomi.extension.zh.kxmanhua",
     "apk": "tachiyomi-zh.kxmanhua-v1.4.9-release.apk",
@@ -81,6 +64,23 @@
         "lang": "zh",
         "id": 3306453532121390497,
         "baseUrl": "https://kxmanhua.com"
+      }
+    ]
+  },
+  {
+    "name": "摸摸漫画",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.mmero",
+    "apk": "tachiyomi-zh.mmero-v1.4.4-release.apk",
+    "lang": "zh",
+    "code": 4,
+    "version": "1.4.4",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "摸摸漫画",
+        "lang": "zh",
+        "id": -6016185348180791415,
+        "baseUrl": "https://eaqrfn.xyz"
       }
     ]
   },
