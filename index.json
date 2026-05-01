@@ -34,23 +34,6 @@
     ]
   },
   {
-    "name": "ETmanxiaosi",
-    "pkg": "eu.kanade.tachiyomi.extension.zh.manxiaosi",
-    "apk": "tachiyomi-zh.manxiaosi-v1.4.15-release.apk",
-    "lang": "zh",
-    "code": 15,
-    "version": "1.4.15",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "ETmanxiaosi",
-        "lang": "zh",
-        "id": -3774904168922560932,
-        "baseUrl": "https://www.jjmhw5.top"
-      }
-    ]
-  },
-  {
     "name": "ET肉漫屋",
     "pkg": "eu.kanade.tachiyomi.extension.zh.roumanwupersonal",
     "apk": "tachiyomi-zh.roumanwupersonal-v1.4.7-release.apk",
@@ -98,6 +81,23 @@
         "lang": "zh",
         "id": 3306453532121390497,
         "baseUrl": "https://kxmanhua.com"
+      }
+    ]
+  },
+  {
+    "name": "漫小肆",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.manxiaosi",
+    "apk": "tachiyomi-zh.manxiaosi-v1.4.16-release.apk",
+    "lang": "zh",
+    "code": 16,
+    "version": "1.4.16",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "漫小肆",
+        "lang": "zh",
+        "id": -3774904168922560932,
+        "baseUrl": "https://www.jjmhw5.top"
       }
     ]
   },
