@@ -100,5 +100,22 @@
         "baseUrl": "https://kxmanhua.com"
       }
     ]
+  },
+  {
+    "name": "鸟鸟韩漫",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.nnhm",
+    "apk": "tachiyomi-zh.nnhm-v1.4.1-release.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "鸟鸟韩漫",
+        "lang": "zh",
+        "id": 6425025037575915352,
+        "baseUrl": "https://nnhm7.org"
+      }
+    ]
   }
 ]
