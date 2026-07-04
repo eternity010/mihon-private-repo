@@ -70,17 +70,17 @@
   {
     "name": "摸摸漫画",
     "pkg": "eu.kanade.tachiyomi.extension.zh.mmero",
-    "apk": "tachiyomi-zh.mmero-v1.4.8-release.apk",
+    "apk": "tachiyomi-zh.mmero-v1.4.9-release.apk",
     "lang": "zh",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "sources": [
       {
         "name": "摸摸漫画",
         "lang": "zh",
         "id": -6016185348180791415,
-        "baseUrl": "https://eaqrfn.xyz"
+        "baseUrl": "https://mmero.com"
       }
     ]
   },
