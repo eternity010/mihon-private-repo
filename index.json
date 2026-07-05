@@ -53,10 +53,10 @@
   {
     "name": "K漫画",
     "pkg": "eu.kanade.tachiyomi.extension.zh.kmanhua",
-    "apk": "tachiyomi-zh.kmanhua-v1.4.3-release.apk",
+    "apk": "tachiyomi-zh.kmanhua-v1.4.4-release.apk",
     "lang": "zh",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "sources": [
       {
