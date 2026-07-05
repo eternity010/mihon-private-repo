@@ -1,22 +1,5 @@
 [
   {
-    "name": "ET肉漫屋",
-    "pkg": "eu.kanade.tachiyomi.extension.zh.roumanwupersonal",
-    "apk": "tachiyomi-zh.roumanwupersonal-v1.4.7-release.apk",
-    "lang": "zh",
-    "code": 7,
-    "version": "1.4.7",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "ET肉漫屋",
-        "lang": "zh",
-        "id": 7543172489869724835,
-        "baseUrl": ""
-      }
-    ]
-  },
-  {
     "name": "K漫画",
     "pkg": "eu.kanade.tachiyomi.extension.zh.kmanhua",
     "apk": "tachiyomi-zh.kmanhua-v1.4.12-release.apk",
