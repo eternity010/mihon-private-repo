@@ -52,17 +52,17 @@
   },
   {
     "name": "K漫画",
-    "pkg": "eu.kanade.tachiyomi.extension.zh.kmh",
-    "apk": "tachiyomi-zh.kmh-v1.4.4-release.apk",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.kmanhua",
+    "apk": "tachiyomi-zh.kmanhua-v1.4.1-release.apk",
     "lang": "zh",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 1,
+    "version": "1.4.1",
     "nsfw": 1,
     "sources": [
       {
         "name": "K漫画",
         "lang": "zh",
-        "id": -8914003835176570081,
+        "id": 2989323419383381805,
         "baseUrl": "https://kmh009.com"
       }
     ]
