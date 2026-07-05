@@ -1,22 +1,5 @@
 [
   {
-    "name": "Baka Manhua Personal",
-    "pkg": "eu.kanade.tachiyomi.extension.zh.bakamhpersonal",
-    "apk": "tachiyomi-zh.bakamhpersonal-v1.4.54-release.apk",
-    "lang": "zh",
-    "code": 54,
-    "version": "1.4.54",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "Baka Manhua Personal",
-        "lang": "zh",
-        "id": -674403739440920732,
-        "baseUrl": "https://baka3.me"
-      }
-    ]
-  },
-  {
     "name": "ET肉漫屋",
     "pkg": "eu.kanade.tachiyomi.extension.zh.roumanwupersonal",
     "apk": "tachiyomi-zh.roumanwupersonal-v1.4.7-release.apk",
