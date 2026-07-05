@@ -1,5 +1,11 @@
 # Mihon 私用仓库
 
+## 订阅链接
+
+```text
+https://eternity010.github.io/mihon-private-repo/repo.json
+```
+
 这个目录用于托管你自己的 Mihon 插件仓库文件：
 
 - `repo.json`
