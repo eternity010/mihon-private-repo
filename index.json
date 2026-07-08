@@ -68,6 +68,23 @@
     ]
   },
   {
+    "name": "漫蛙2",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.manwa2",
+    "apk": "tachiyomi-zh.manwa2-v1.4.1-release.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "漫蛙2",
+        "lang": "zh",
+        "id": -1676291588943044433,
+        "baseUrl": "https://manwapi.cc"
+      }
+    ]
+  },
+  {
     "name": "鸟鸟韩漫",
     "pkg": "eu.kanade.tachiyomi.extension.zh.nnhm",
     "apk": "tachiyomi-zh.nnhm-v1.4.5-release.apk",
