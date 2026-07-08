@@ -70,10 +70,10 @@
   {
     "name": "漫蛙2",
     "pkg": "eu.kanade.tachiyomi.extension.zh.manwa2",
-    "apk": "tachiyomi-zh.manwa2-v1.4.2-release.apk",
+    "apk": "tachiyomi-zh.manwa2-v1.4.3-release.apk",
     "lang": "zh",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "sources": [
       {
